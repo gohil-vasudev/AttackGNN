@@ -9,7 +9,7 @@ If you use our tool and/or adversarial circuits in your research, please cite ou
 
 ```
 @inproceedings{gohil2024attackgnn,
-  title={$\{$AttackGNN$\}$:$\{$Red-Teaming$\}$$\{$GNNs$\}$ in Hardware Security Using Reinforcement Learning},
+  title={{AttackGNN: Red-Teaming GNNs in Hardware Security Using Reinforcement Learning}},
   author={Gohil, Vasudev and Patnaik, Satwik and Kalathil, Dileep and Rajendran, Jeyavijayan},
   booktitle={33rd USENIX Security Symposium (USENIX Security 24)},
   pages={73--90},
