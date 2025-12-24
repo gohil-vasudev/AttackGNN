@@ -1,2 +1,17 @@
 # AttackGNN
-[WIP] Supporting material for our RL-based adversarial example generation work.
+Supporting material for our [RL-based GNN red-teaming work](https://www.usenix.org/system/files/usenixsecurity24-gohil.pdf) published at USENIX Security 2024.
+
+
+
+# CITATION
+If you use our tool and/or adversarial circuits in your research, please cite our paper.
+
+```
+@inproceedings{gohil2024attackgnn,
+  title={$\{$AttackGNN$\}$:$\{$Red-Teaming$\}$$\{$GNNs$\}$ in Hardware Security Using Reinforcement Learning},
+  author={Gohil, Vasudev and Patnaik, Satwik and Kalathil, Dileep and Rajendran, Jeyavijayan},
+  booktitle={33rd USENIX Security Symposium (USENIX Security 24)},
+  pages={73--90},
+  year={2024}
+}
+```
